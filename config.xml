@@ -19,10 +19,6 @@
     </author>
 	
 
-
-      
-	  
-	  
 	
 	<icon src="res/mipmap-mdpi/ic_launcher.png" gap:platform="android" gap:qualifier="mdpi" />
 	<icon src="res/mipmap-hdpi/ic_launcher.png" gap:platform="android" gap:qualifier="hdpi" />
@@ -30,10 +26,6 @@
 	<icon src="res/mipmap-xxhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xxhdpi" />
 	
 
-
-
-
-    
     <preference name="permissions"                value="none"/>
 	
 	<gap:splash gap:density="ldpi" gap:platform="android" src="res/screen/android/screen-ldpi-portrait.png" />
@@ -42,14 +34,6 @@
 	<gap:splash gap:density="xhdpi" gap:platform="android" src="res/screen/android/screen-xhdpi-portrait.png" />
 	
 	
-	
-	
-
-
-
-
-
-
     <!-- Customize your app and platform with the preference element. -->
 	<preference name="permissions" value="none"/>
     <preference name="phonegap-version"           value="3.7.0" />          <!-- all: current version of PhoneGap -->
