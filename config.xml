@@ -5,7 +5,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.visa.jachai"
         versionCode = "34" 
-	version   = "1.2.1">
+	version   = "1.3.1">
 
     <name>ভিসা যাচাই</name>
 
